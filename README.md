@@ -12,7 +12,7 @@ Reposiórios para armazenamento de resumos sobre Git e Github da [GFT Start | DI
 
 | Aulas | Resumos |
 |-------|----------|
-| Gravando alterações no Reposiório Local | [Resumo](https://web.dio.me/track/gft-start-logica-de-programacao) |
+| Teste | [Resumo]() |
 
 ```
 git init
