@@ -1,0 +1,30 @@
+git clone (link do projeto) - clona o projetiney
+ls - mostra as pastas e arquivos da pasta atual
+cd - entra no diretório
+cd .. - sai do diretório
+npm i - instala as dependencias do node
+npm start - inicia o server do node
+code . - abre o vscode
+git status - mostra como esta o repositorio
+git add .- adiciona os itens para fazer commit
+git commit -m "mensagem" - cria um commit
+git commit --amend -m "mensagem" - corrige a mensagem
+git push - envia o commit pro git
+git pull - atualiza o projetiney
+git log - mostra o histórico dos commits
+
+git checkout - troca a branch
+
+git init - Cria um repositório Git vazio
+rm -rf .git - remove o diretorio .git e todo seu conteudo
+git restore (nome do arquivo) - restaura o conteudo do arquivo modificado
+
+git reset
+
+**Brench**
+git checkout -b (nome da branch) - cria uma nova brench e entra nela
+git checkout (nome da branch existente, ex: main) - volta pra brench citada
+git branch - lista todas as branch
+git branch -v - lista o ultimo commit de cada branch
+git merge (nome da brench) - mescla as branch
+git branch -d (nome da branch que quer excluir) - exclui a branch citada
